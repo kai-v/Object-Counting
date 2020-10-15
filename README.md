@@ -1,2 +1,2 @@
 # Object-Counting
-Object counting using Open CV 
+Object counting using Open CV and morphologiocal operators 
